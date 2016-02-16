@@ -10,8 +10,7 @@ namespace LeetCode
     {
         static void Main()
         {
-            
-            Console.ReadKey();
+           Console.ReadKey();
         }
     }
 }

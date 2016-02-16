@@ -54,6 +54,7 @@
     <Compile Include="UnitTest122_Best_Time__to_Buy_and_Sell_Stock_II.cs" />
     <Compile Include="UnitTest169MajorityElements.cs" />
     <Compile Include="UnitTest217ContainsDuplicate.cs" />
+    <Compile Include="UnitTest268MissingNumber.cs" />
     <Compile Include="UnitTest283_MoveZeroes.cs" />
     <Compile Include="UnitTest238_ProductOfArrayExceptSelf.cs" />
   </ItemGroup>

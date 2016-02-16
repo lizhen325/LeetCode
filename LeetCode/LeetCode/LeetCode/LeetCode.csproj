@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="169_MajorityElement.cs" />
+    <Compile Include="268_MissingNumber.cs" />
     <Compile Include="283_MoveZeroes.cs" />
     <Compile Include="122_Best_Time _to_Buy_and_Sell_Stock_II.cs" />
     <Compile Include="238_ProductOfArrayExceptSelf.cs" />

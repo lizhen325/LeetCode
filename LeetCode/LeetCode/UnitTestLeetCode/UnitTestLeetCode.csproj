@@ -57,6 +57,7 @@
     <Compile Include="UnitTest268MissingNumber.cs" />
     <Compile Include="UnitTest283_MoveZeroes.cs" />
     <Compile Include="UnitTest238_ProductOfArrayExceptSelf.cs" />
+    <Compile Include="UnitTest287_FindtheDuplicatNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">

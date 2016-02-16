@@ -48,6 +48,7 @@
     <Compile Include="122_Best_Time _to_Buy_and_Sell_Stock_II.cs" />
     <Compile Include="238_ProductOfArrayExceptSelf.cs" />
     <Compile Include="217_ContainsDuplicate.cs" />
+    <Compile Include="287FindtheDuplicateNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -3,12 +3,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90B4D31A-3568-48B3-A2D0-D1863B754899}</ProjectGuid>
+    <ProjectGuid>11985d27-fafe-4f46-a199-4cc0ab2d841c</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnitTestLeetCode</RootNamespace>
-    <AssemblyName>UnitTestLeetCode</AssemblyName>
-    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <RootNamespace>Best_Time_to_Buy_and_Sell_Stock_IITests</RootNamespace>
+    <AssemblyName>Best_Time_to_Buy_and_Sell_Stock_IITests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
@@ -50,15 +50,8 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UnitTest122_Best_Time__to_Buy_and_Sell_Stock_II.cs" />
-    <Compile Include="UnitTest283_MoveZeroes.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\LeetCode\LeetCode.csproj">
-      <Project>{14FB757A-08F7-40A3-918F-35A1F4641B09}</Project>
-      <Name>LeetCode</Name>
-    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -8,15 +8,14 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace LeetCode.Tests
 {
     [TestClass()]
-    public class UnitTest217ContainsDuplicate
+    public class UnitTest169MajorityElements
     {
         [TestMethod()]
-        public void ContainDuplicate()
+        public void MajorityElement()
         {
-            int[]nums = {1,1,2,3,4,5};
-            bool flag = ContainsDuplicate.ContainDuplicate(nums);
-            Assert.AreEqual(true, flag);
+            int[] nums = { 3, 3, 4, 2, 4, 4, 2, 4, 4 };
+            int me = _169_Majority_Element.MajorityElement(nums);
+            Assert.AreEqual(4, me);
         }
-
     }
 }

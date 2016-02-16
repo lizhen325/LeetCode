@@ -49,6 +49,7 @@
     <Compile Include="238_ProductOfArrayExceptSelf.cs" />
     <Compile Include="217_ContainsDuplicate.cs" />
     <Compile Include="287FindtheDuplicateNumber.cs" />
+    <Compile Include="35._SearchInsertPosition.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

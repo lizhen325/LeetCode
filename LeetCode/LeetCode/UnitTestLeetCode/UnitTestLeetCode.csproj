@@ -59,6 +59,7 @@
     <Compile Include="UnitTest238_ProductOfArrayExceptSelf.cs" />
     <Compile Include="UnitTest287_FindtheDuplicatNumber.cs" />
     <Compile Include="UnitTest35_SearchInsertPosition.cs" />
+    <Compile Include="UnitTest53_MaximumSubArray.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">

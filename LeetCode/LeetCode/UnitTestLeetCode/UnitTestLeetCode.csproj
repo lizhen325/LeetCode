@@ -60,6 +60,7 @@
     <Compile Include="UnitTest287_FindtheDuplicatNumber.cs" />
     <Compile Include="UnitTest35_SearchInsertPosition.cs" />
     <Compile Include="UnitTest53_MaximumSubArray.cs" />
+    <Compile Include="_153_FindMinimumInRotatedSortedArrayTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">

@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="121_BestTimetoBuyAndSellStock.cs" />
     <Compile Include="153_FindMinimumInRotatedSortedArray.cs" />
+    <Compile Include="162_FindPeakElement.cs" />
     <Compile Include="169_MajorityElement.cs" />
     <Compile Include="268_MissingNumber.cs" />
     <Compile Include="26_RemoveDuplicatesFromSortedArray.cs" />

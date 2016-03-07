@@ -57,6 +57,7 @@
     <Compile Include="35._SearchInsertPosition.cs" />
     <Compile Include="53_MaximumSubarray.cs" />
     <Compile Include="66_PlusOne.cs" />
+    <Compile Include="80_RemoveDuplicatesFormSortedArray.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

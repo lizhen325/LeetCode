@@ -67,6 +67,7 @@
     <Compile Include="_27_Remove_ElementTests.cs" />
     <Compile Include="_66_PlusOneTests.cs" />
     <Compile Include="_80_RemoveDuplicatesFormSortedArrayTests.cs" />
+    <Compile Include="_81_SearchInRotatedSortedArrayIITests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\LeetCode\LeetCode.csproj">

@@ -56,8 +56,10 @@
     <Compile Include="238_ProductOfArrayExceptSelf.cs" />
     <Compile Include="217_ContainsDuplicate.cs" />
     <Compile Include="287FindtheDuplicateNumber.cs" />
+    <Compile Include="34_SearchForARange.cs" />
     <Compile Include="35._SearchInsertPosition.cs" />
     <Compile Include="53_MaximumSubarray.cs" />
+    <Compile Include="55_JumpGame.cs" />
     <Compile Include="66_PlusOne.cs" />
     <Compile Include="80_RemoveDuplicatesFormSortedArray.cs" />
     <Compile Include="81_SearchInRotatedSortedArrayII.cs" />

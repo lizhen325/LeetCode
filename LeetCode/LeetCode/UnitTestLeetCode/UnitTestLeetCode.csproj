@@ -65,6 +65,8 @@
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />
+    <Compile Include="_34_SearchForARangeTests.cs" />
+    <Compile Include="_55_JumpGameTests.cs" />
     <Compile Include="_66_PlusOneTests.cs" />
     <Compile Include="_80_RemoveDuplicatesFormSortedArrayTests.cs" />
     <Compile Include="_81_SearchInRotatedSortedArrayIITests.cs" />

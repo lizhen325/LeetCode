@@ -46,7 +46,10 @@
     <Compile Include="153_FindMinimumInRotatedSortedArray.cs" />
     <Compile Include="162_FindPeakElement.cs" />
     <Compile Include="169_MajorityElement.cs" />
+    <Compile Include="16_3SumCloset.cs" />
     <Compile Include="189_RotateArray.cs" />
+    <Compile Include="1_TwoSum.cs" />
+    <Compile Include="209_MinimumSizeSubarraySum.cs" />
     <Compile Include="219_ContainsDuplicatesIII.cs" />
     <Compile Include="268_MissingNumber.cs" />
     <Compile Include="26_RemoveDuplicatesFromSortedArray.cs" />
@@ -58,6 +61,7 @@
     <Compile Include="287FindtheDuplicateNumber.cs" />
     <Compile Include="34_SearchForARange.cs" />
     <Compile Include="35._SearchInsertPosition.cs" />
+    <Compile Include="41_FirstMissingPositive.cs" />
     <Compile Include="53_MaximumSubarray.cs" />
     <Compile Include="55_JumpGame.cs" />
     <Compile Include="66_PlusOne.cs" />

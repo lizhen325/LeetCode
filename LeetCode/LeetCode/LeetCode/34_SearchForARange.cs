@@ -20,6 +20,7 @@ namespace LeetCode
             int end = nums.Length - 1;
             int start = 0;    
             int mid = (end + start) / 2;
+            //find first target
             while(start < end)
             {               
                 if (nums[mid] < target)
@@ -37,11 +38,13 @@ namespace LeetCode
             }
             if (nums[mid] != target)
                 return new int[] { -1, -1 };
+            //left
             for (start = mid; start>=0; start-- )
             {
                 if(nums[start] != target)
                     break;
             }
+            //right
             for(end = mid; end<nums.Length; end++)
             {
                 if (nums[end] != target)

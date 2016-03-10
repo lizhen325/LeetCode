@@ -60,6 +60,7 @@
     <Compile Include="UnitTest287_FindtheDuplicatNumber.cs" />
     <Compile Include="UnitTest35_SearchInsertPosition.cs" />
     <Compile Include="UnitTest53_MaximumSubArray.cs" />
+    <Compile Include="_146_SigleNumberTests.cs" />
     <Compile Include="_153_FindMinimumInRotatedSortedArrayTests.cs" />
     <Compile Include="_162_FindPeakElementTests.cs" />
     <Compile Include="_1_TwoSumTests.cs" />
@@ -67,7 +68,6 @@
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />
     <Compile Include="_34_SearchForARangeTests.cs" />
-    <Compile Include="_41_FirstMissingPositiveTests.cs" />
     <Compile Include="_55_JumpGameTests.cs" />
     <Compile Include="_66_PlusOneTests.cs" />
     <Compile Include="_80_RemoveDuplicatesFormSortedArrayTests.cs" />

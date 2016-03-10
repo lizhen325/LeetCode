@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="121_BestTimetoBuyAndSellStock.cs" />
+    <Compile Include="136_SigleNumber.cs" />
     <Compile Include="153_FindMinimumInRotatedSortedArray.cs" />
     <Compile Include="162_FindPeakElement.cs" />
     <Compile Include="169_MajorityElement.cs" />

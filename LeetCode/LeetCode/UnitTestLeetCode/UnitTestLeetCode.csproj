@@ -65,6 +65,7 @@
     <Compile Include="_162_FindPeakElementTests.cs" />
     <Compile Include="_1_TwoSumTests.cs" />
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
+    <Compile Include="_242_ValidAnagramTests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />
     <Compile Include="_34_SearchForARangeTests.cs" />

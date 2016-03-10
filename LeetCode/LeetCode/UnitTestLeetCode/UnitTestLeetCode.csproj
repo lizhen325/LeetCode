@@ -62,9 +62,7 @@
     <Compile Include="UnitTest53_MaximumSubArray.cs" />
     <Compile Include="_153_FindMinimumInRotatedSortedArrayTests.cs" />
     <Compile Include="_162_FindPeakElementTests.cs" />
-    <Compile Include="_16_3SumClosetTests.cs" />
     <Compile Include="_1_TwoSumTests.cs" />
-    <Compile Include="_209_MinimumSizeSubarraySumTests.cs" />
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />

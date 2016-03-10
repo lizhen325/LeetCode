@@ -64,6 +64,7 @@
     <Compile Include="_153_FindMinimumInRotatedSortedArrayTests.cs" />
     <Compile Include="_162_FindPeakElementTests.cs" />
     <Compile Include="_1_TwoSumTests.cs" />
+    <Compile Include="_202_IsHappyNumberTests.cs" />
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
     <Compile Include="_242_ValidAnagramTests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />

@@ -49,6 +49,7 @@
     <Compile Include="169_MajorityElement.cs" />
     <Compile Include="189_RotateArray.cs" />
     <Compile Include="1_TwoSum.cs" />
+    <Compile Include="202_IsHappyNumber.cs" />
     <Compile Include="219_ContainsDuplicatesIII.cs" />
     <Compile Include="242_ValidAnagram.cs" />
     <Compile Include="268_MissingNumber.cs" />

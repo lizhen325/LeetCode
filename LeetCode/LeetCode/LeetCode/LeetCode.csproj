@@ -50,6 +50,7 @@
     <Compile Include="189_RotateArray.cs" />
     <Compile Include="1_TwoSum.cs" />
     <Compile Include="202_IsHappyNumber.cs" />
+    <Compile Include="205_IsmorphicStrings.cs" />
     <Compile Include="219_ContainsDuplicatesIII.cs" />
     <Compile Include="242_ValidAnagram.cs" />
     <Compile Include="268_MissingNumber.cs" />
@@ -69,6 +70,7 @@
     <Compile Include="81_SearchInRotatedSortedArrayII.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

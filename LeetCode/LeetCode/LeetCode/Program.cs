@@ -11,10 +11,15 @@ namespace LeetCode
     {
         public static void Main()
         {
-            int[] nums = { 0, 1, 0, 3, 12 };
-            int[] res = RemoveZeroes.MoveZeroes(nums);
-            foreach(var i in res)
-                Console.WriteLine(i);
+            Dictionary<char, int> dic = new Dictionary<char, int>();
+            string guess = "7810";
+            for (int i = 0; i < guess.Length; i++)
+            {
+                dic[guess[i]] = i;
+            }
+
+            foreach (var item in dic)
+                Console.WriteLine(item.Key + ": " + item.Value);
             Console.ReadKey();
         }
     }

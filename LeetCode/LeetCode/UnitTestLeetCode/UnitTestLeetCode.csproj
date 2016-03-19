@@ -71,6 +71,7 @@
     <Compile Include="_242_ValidAnagramTests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />
+    <Compile Include="_290_WordPatternTests.cs" />
     <Compile Include="_299_BullsAndCowsTests.cs" />
     <Compile Include="_34_SearchForARangeTests.cs" />
     <Compile Include="_55_JumpGameTests.cs" />

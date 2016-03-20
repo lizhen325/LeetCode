@@ -75,6 +75,7 @@
     <Compile Include="_290_WordPatternTests.cs" />
     <Compile Include="_299_BullsAndCowsTests.cs" />
     <Compile Include="_34_SearchForARangeTests.cs" />
+    <Compile Include="_3_LongestSubstringTests.cs" />
     <Compile Include="_55_JumpGameTests.cs" />
     <Compile Include="_66_PlusOneTests.cs" />
     <Compile Include="_80_RemoveDuplicatesFormSortedArrayTests.cs" />

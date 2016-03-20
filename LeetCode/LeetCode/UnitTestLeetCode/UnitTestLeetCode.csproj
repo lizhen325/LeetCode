@@ -66,6 +66,7 @@
     <Compile Include="_162_FindPeakElementTests.cs" />
     <Compile Include="_1_TwoSumTests.cs" />
     <Compile Include="_202_IsHappyNumberTests.cs" />
+    <Compile Include="_204_CountPrimesTests.cs" />
     <Compile Include="_205_IsmorphicStringsTests.cs" />
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
     <Compile Include="_242_ValidAnagramTests.cs" />

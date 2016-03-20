@@ -50,6 +50,7 @@
     <Compile Include="189_RotateArray.cs" />
     <Compile Include="1_TwoSum.cs" />
     <Compile Include="202_IsHappyNumber.cs" />
+    <Compile Include="204_CountPrimes.cs" />
     <Compile Include="205_IsmorphicStrings.cs" />
     <Compile Include="219_ContainsDuplicatesIII.cs" />
     <Compile Include="242_ValidAnagram.cs" />

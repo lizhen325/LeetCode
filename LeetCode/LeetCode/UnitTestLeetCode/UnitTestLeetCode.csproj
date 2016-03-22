@@ -70,6 +70,7 @@
     <Compile Include="_205_IsmorphicStringsTests.cs" />
     <Compile Include="_219_ContainsDuplicatesIIITests.cs" />
     <Compile Include="_242_ValidAnagramTests.cs" />
+    <Compile Include="_258_AddDigitsTests.cs" />
     <Compile Include="_26_RemoveDuplicatesFromSortedArrayTests.cs" />
     <Compile Include="_27_Remove_ElementTests.cs" />
     <Compile Include="_290_WordPatternTests.cs" />

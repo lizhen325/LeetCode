@@ -54,6 +54,7 @@
     <Compile Include="205_IsmorphicStrings.cs" />
     <Compile Include="219_ContainsDuplicatesIII.cs" />
     <Compile Include="242_ValidAnagram.cs" />
+    <Compile Include="258_AddDigits.cs" />
     <Compile Include="268_MissingNumber.cs" />
     <Compile Include="26_RemoveDuplicatesFromSortedArray.cs" />
     <Compile Include="27_Remove Element.cs" />

@@ -61,6 +61,7 @@
     <Compile Include="UnitTest287_FindtheDuplicatNumber.cs" />
     <Compile Include="UnitTest35_SearchInsertPosition.cs" />
     <Compile Include="UnitTest53_MaximumSubArray.cs" />
+    <Compile Include="_11_ContianerWithMostWaterTests.cs" />
     <Compile Include="_146_SigleNumberTests.cs" />
     <Compile Include="_153_FindMinimumInRotatedSortedArrayTests.cs" />
     <Compile Include="_162_FindPeakElementTests.cs" />

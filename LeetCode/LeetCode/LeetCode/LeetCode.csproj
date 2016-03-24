@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="11_ContianerWithMostWater.cs" />
     <Compile Include="121_BestTimetoBuyAndSellStock.cs" />
     <Compile Include="136_SigleNumber.cs" />
     <Compile Include="153_FindMinimumInRotatedSortedArray.cs" />

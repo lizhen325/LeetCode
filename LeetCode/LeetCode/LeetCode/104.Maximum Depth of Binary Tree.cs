@@ -19,8 +19,8 @@ namespace LeetCode
         {
             if (root == null) return 0;
             int leftNode = this.MaxDepth(root.left);
-            int rightNode = this.MaxDepth(root.right) + 1;
-            return Math.Max(leftNode, rightNode);
+            int rightNode = this.MaxDepth(root.right);
+            return Math.Max(leftNode, rightNode) + 1;
         }
     }
 }

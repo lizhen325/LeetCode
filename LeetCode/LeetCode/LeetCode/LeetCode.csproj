@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="100.SameTree.cs" />
+    <Compile Include="101 Symmetric Tree.cs" />
+    <Compile Include="104.Maximum Depth of Binary Tree.cs" />
+    <Compile Include="110 Balanced Binary Tree.cs" />
+    <Compile Include="112 Path Sum.cs" />
     <Compile Include="11_ContianerWithMostWater.cs" />
     <Compile Include="121_BestTimetoBuyAndSellStock.cs" />
     <Compile Include="136_SigleNumber.cs" />
